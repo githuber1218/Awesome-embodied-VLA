@@ -9,3 +9,5 @@ This repo contains a curative list of **papers using VLM/VLA**.
 * **RoboNurse-VLA**: "RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action", *arXiv, Sep 2024*. [[Paper](https://arxiv.org/abs/2409.19590)][[Website](https://arxiv.org/abs/2409.19590)]
 
 * **TinyVLA**: "TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation", *arXiv, Sep 2024*. [[Paper](https://arxiv.org/pdf/2409.12514)]
+
+* **EdgeVLA**: "EdgeVLA: Efficient Vision-Language-Action Models", *Nov 2024*. [[Paper](https://kscale-public.s3.amazonaws.com/evla_09092024/report.pdf)]
