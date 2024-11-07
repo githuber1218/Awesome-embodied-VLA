@@ -11,3 +11,5 @@ This repo contains a curative list of **papers using VLM/VLA**.
 * **TinyVLA**: "TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation", *arXiv, Sep 2024*. [[Paper](https://arxiv.org/pdf/2409.12514)]
 
 * **EdgeVLA**: "EdgeVLA: Efficient Vision-Language-Action Models", *Nov 2024*. [[Paper](https://kscale-public.s3.amazonaws.com/evla_09092024/report.pdf)]
+
+* **OpenVLA**: "OpenVLA: An Open-Source Vision-Language-Action Model", *arXiv,June 2024*. [[Paper](https://arxiv.org/abs/2406.09246)][[Website](https://openvla.github.io/)]
