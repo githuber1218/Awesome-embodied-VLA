@@ -13,3 +13,5 @@ This repo contains a curative list of **papers using VLM/VLA**.
 * **EdgeVLA**: "EdgeVLA: Efficient Vision-Language-Action Models", *Nov 2024*. [[Paper](https://kscale-public.s3.amazonaws.com/evla_09092024/report.pdf)]
 
 * **OpenVLA**: "OpenVLA: An Open-Source Vision-Language-Action Model", *arXiv,June 2024*. [[Paper](https://arxiv.org/abs/2406.09246)][[Website](https://openvla.github.io/)]
+
+* **ECoT**: "Robotic Control via Embodied Chain-of-Thought Reasoning", *arXiv,Jul 2024*. [[Paper](https://arxiv.org/abs/2407.08693)]
