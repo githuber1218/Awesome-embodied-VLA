@@ -1,7 +1,15 @@
 # Awesome-embodied-VLA
 
-This repo contains a curative list of **papers using VLM/VLA**.
+This repo contains a curative list of **papers using VLM/VLA**. This repo is still
 
+---
+## Overview
+  - [Manipulation](#Manipulation)
+  - [Dataset](#Dataset)
+  - [Citation](#Citation)
+
+---
+## Manipulation
 * **VoxPoser**: "Voxposer: Composable 3D Value Maps for Robotic Manipulation with Language Models", *arXiv, Nov 2023*. [[Paper](https://voxposer.github.io/voxposer.pdf)] [[Code](https://github.com/huangwl18/VoxPoser)] [[Website](https://voxposer.github.io/)]
 
 * **ReKep**: "ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation", *arXiv, Sep 2024*. [[Paper](https://rekep-robot.github.io/rekep.pdf)] [[Code](https://github.com/huangwl18/ReKep)] [[Website](https://rekep-robot.github.io)]
@@ -12,6 +20,20 @@ This repo contains a curative list of **papers using VLM/VLA**.
 
 * **EdgeVLA**: "EdgeVLA: Efficient Vision-Language-Action Models", *Nov 2024*. [[Paper](https://kscale-public.s3.amazonaws.com/evla_09092024/report.pdf)]
 
-* **OpenVLA**: "OpenVLA: An Open-Source Vision-Language-Action Model", *arXiv,June 2024*. [[Paper](https://arxiv.org/abs/2406.09246)][[Website](https://openvla.github.io/)]
+* **OpenVLA**: "OpenVLA: An Open-Source Vision-Language-Action Model", *arXiv, June 2024*. [[Paper](https://arxiv.org/abs/2406.09246)][[Website](https://openvla.github.io/)]
 
-* **ECoT**: "Robotic Control via Embodied Chain-of-Thought Reasoning", *arXiv,Jul 2024*. [[Paper](https://arxiv.org/abs/2407.08693)]
+* **ECoT**: "Robotic Control via Embodied Chain-of-Thought Reasoning", *arXiv, Jul 2024*. [[Paper](https://arxiv.org/abs/2407.08693)]
+---
+## Dataset
+----
+## Citation
+If you find this repository useful, please consider citing this list:
+```
+@misc{weihengwang2024vlapaperslist,
+    title = {Awesome-embodied-VLA},
+    author = {Weiheng Wang},
+    journal = {GitHub repository},
+    url = {https://github.com/githuber1218/Awesome-embodied-VLA},
+    year = {2024},
+}
+```
