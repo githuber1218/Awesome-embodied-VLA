@@ -25,7 +25,8 @@ This repo contains a curative list of **papers using VLM/VLA**. This repo is sti
 * **ECoT**: "Robotic Control via Embodied Chain-of-Thought Reasoning", *arXiv, Jul 2024*. [[Paper](https://arxiv.org/abs/2407.08693)]
 ---
 ## Dataset
-* **BridgeData V2**:"BridgeData V2: A Dataset for Robot Learning at Scale:, *arXiv, Aug 2023*. [[Paper](https://arxiv.org/abs/2308.12952)][[Website](https://rail-berkeley.github.io/bridgedata/)][[Code](https://github.com/rail-berkeley/bridge_data_v2)]
+* **BridgeData V2**:"BridgeData V2: A Dataset for Robot Learning at Scale", *arXiv, Aug 2023*. [[Paper](https://arxiv.org/abs/2308.12952)][[Website](https://rail-berkeley.github.io/bridgedata/)][[Code](https://github.com/rail-berkeley/bridge_data_v2)]
+* **Open X-Embodiment Dataset**:"Open X-Embodiment: Robotic Learning Datasets and RT-X Models", *arXiv, Oct 2023*. [[Paper](https://arxiv.org/abs/2310.08864)][[Website](https://robotics-transformer-x.github.io/)]
 ----
 ## Citation
 If you find this repository useful, please consider citing this list:
