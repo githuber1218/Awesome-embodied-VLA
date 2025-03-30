@@ -5,6 +5,7 @@ This repo contains a curative list of **papers using VLM/VLA**. This repo is sti
 ---
 ## Overview
   - [Manipulation](#Manipulation)
+  - [Simualtion](#Simulation)
   - [Dataset](#Dataset)
   - [Citation](#Citation)
 
@@ -23,6 +24,7 @@ This repo contains a curative list of **papers using VLM/VLA**. This repo is sti
 * **OpenVLA**: "OpenVLA: An Open-Source Vision-Language-Action Model", *arXiv, June 2024*. [[Paper](https://arxiv.org/abs/2406.09246)][[Website](https://openvla.github.io/)]
 
 * **ECoT**: "Robotic Control via Embodied Chain-of-Thought Reasoning", *arXiv, Jul 2024*. [[Paper](https://arxiv.org/abs/2407.08693)]
+* **Agibot_GO1**: "AgiBot World Colosseo: Large-scale Manipulation Platform for Scalable and Intelligent Embodied System", [[Paper](https://agibot-world.com/blog/agibot_go1.pdf)]
 ---
 ## Simulation
 * **HumanVLA**: "HumanVLA: Towards Vision-Language Directed Object Rearrangement by Physical Humanoid", *arXiv, Nov 2024*. [[Paper](https://arxiv.org/pdf/2406.19972)][[Code](https://github.com/AllenXuuu/HumanVLA)]
